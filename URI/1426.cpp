@@ -1,12 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void solve(int m[9][9], int i, int j){
-    if(m[i][j] == -1){
-        
-    }
-}
-
 int main(){
     int t;
     cin >> t;
